@@ -1,1 +1,3 @@
 # BandGap-Predictor
+
+Precise bandgap prediction plays a pivotal role in material design, ensuring tailored electrical and optical attributes for various applications like solar cells, and electronic, and optoelectronic devices. Given the constraints of traditional experimental approaches, the development of accurate machine-learning models becomes critical. This project seeks to utilize the EAFLOW dataset to train a model capable of accurately predicting compound bandgaps, relying on their electronic properties.
